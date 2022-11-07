@@ -1,0 +1,253 @@
+{
+  "data" : [
+  {
+    "judul": "Resto Abc",
+    "image": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+         "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "https://images.unsplash.com/photo-1578474846511-04ba529f0b88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "https://images.unsplash.com/photo-1552566626-52f8b828add9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"],
+    "valueProgressbar": 0.6,
+    "nilaiBisnis": 40,
+    "price": 20000000,
+    "perusahaan": "PT Persero Merdeka",
+    "lokasi": "Tebet, Jakarta Selatan",
+    "jumlahInvestor": 3,
+    "hasilInvestasi": 7500000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Food and Beverage",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "1"
+  },
+  {
+    "judul": "Clothes Shop Ayu",
+    "image": [
+        "https://4.bp.blogspot.com/-bqq7INjup44/Wvd_44ZXslI/AAAAAAAADYE/cuUoqzKlHyEJqlchMwH-I-290o-fTCXVgCEwYBhgL/s1600/desain%2Btoko%2Bbaju%2Bminimalis%2B3.jpg",
+        "https://i.pinimg.com/originals/e1/1b/08/e11b08adfdb0f55a05553e82db44b0f1.jpg",
+        "https://referensience.com/wp-content/uploads/2020/10/baju.jpg",
+        "https://th.bing.com/th/id/R.810e545979ab7623db5c46b4179ff182?rik=EVbIgZMtkCy2Mw&riu=http%3a%2f%2fwongadoh.files.wordpress.com%2f2013%2f12%2fdsc_1134.jpg&ehk=9uLVFFT4UOpCM6ZWPqTJn4MPI7b%2bit%2b6mKrBj7wf%2bxg%3d&risl=&pid=ImgRaw&r=0",
+        "https://1.bp.blogspot.com/-lOX7lr9-DwE/UNA9bAUQ5FI/AAAAAAAAA5s/6Eqe6ISHXjU/s1600/DSC00092.JPG"
+        ],
+    "valueProgressbar": 0.5,
+    "nilaiBisnis": 50,
+    "price": 25000000,
+    "perusahaan": "PT Persero Jayww",
+    "lokasi": "Solo, Jakarta Selatan",
+    "jumlahInvestor": 2,
+    "hasilInvestasi": 9000000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Fashion",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "2"
+  },
+  {
+    "judul": "Toko Bunga Cyhthia",
+    "image": [
+        "https://images.unsplash.com/photo-1531058240690-006c446962d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://plus.unsplash.com/premium_photo-1661898753405-eeba8fda9ba9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1616614992443-72324b4f83c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+        "https://images.unsplash.com/photo-1558861122-40aa75d3a841?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "https://images.unsplash.com/photo-1619954428481-32c125ae19f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80"
+       ],
+    "valueProgressbar": 0.4,
+    "nilaiBisnis": 30,
+    "price": 30000000,
+    "perusahaan": "PT TBK jayaa",
+    "lokasi": "Mangkunegaran, Jakarta Timur",
+    "jumlahInvestor": 2,
+    "hasilInvestasi": 8000000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Plants",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 3",
+    "id": "3"
+  },
+  {
+    "judul": "Caffe Coffe No Kita",
+    "image": [
+        "https://www.nookmag.com/wp-content/uploads/2016/09/CVERGInterior3.jpg",
+        "https://qaafi.uq.edu.au/files/20987/Coffee-cafe-drink.jpg",
+        "https://media.blogto.com/articles/20180131-2048-TheDrakeHotel35.jpg?cmd=resize_then_crop&quality=70&w=2048&height=1365",
+        "https://www.imperialsugar.com/sites/default/files/recipe/Cuban-Coffee-Imperial.jpg" , 
+        "https://thecoffeeclub.co.th/wp-content/uploads/2018/08/4CFC_menu0292.jpg"
+    ],
+    "valueProgressbar": 0.7,
+    "nilaiBisnis": 60,
+    "price": 40000000,
+    "perusahaan": "PT Jaya Indo",
+    "lokasi": "Senayan, Jakarta Pusat",
+    "jumlahInvestor": 3,
+    "hasilInvestasi": 7500000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Food and Beverage",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "4"
+  },
+  {
+    "judul": "Resto Abc",
+    "image": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+         "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "https://images.unsplash.com/photo-1578474846511-04ba529f0b88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "https://images.unsplash.com/photo-1552566626-52f8b828add9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"],
+    "valueProgressbar": 0.6,
+    "nilaiBisnis": 40,
+    "price": 20000000,
+    "perusahaan": "PT Persero Merdeka",
+    "lokasi": "Tebet, Jakarta Selatan",
+    "jumlahInvestor": 3,
+    "hasilInvestasi": 7500000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Food and Beverage",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "5"
+  },
+  {
+    "judul": "Clothes Shop Ayu",
+    "image": [
+        "https://4.bp.blogspot.com/-bqq7INjup44/Wvd_44ZXslI/AAAAAAAADYE/cuUoqzKlHyEJqlchMwH-I-290o-fTCXVgCEwYBhgL/s1600/desain%2Btoko%2Bbaju%2Bminimalis%2B3.jpg",
+        "https://i.pinimg.com/originals/e1/1b/08/e11b08adfdb0f55a05553e82db44b0f1.jpg",
+        "https://referensience.com/wp-content/uploads/2020/10/baju.jpg",
+        "https://th.bing.com/th/id/R.810e545979ab7623db5c46b4179ff182?rik=EVbIgZMtkCy2Mw&riu=http%3a%2f%2fwongadoh.files.wordpress.com%2f2013%2f12%2fdsc_1134.jpg&ehk=9uLVFFT4UOpCM6ZWPqTJn4MPI7b%2bit%2b6mKrBj7wf%2bxg%3d&risl=&pid=ImgRaw&r=0",
+        "https://1.bp.blogspot.com/-lOX7lr9-DwE/UNA9bAUQ5FI/AAAAAAAAA5s/6Eqe6ISHXjU/s1600/DSC00092.JPG"
+        ],
+    "valueProgressbar": 0.5,
+    "nilaiBisnis": 50,
+    "price": 25000000,
+    "perusahaan": "PT Persero Jayww",
+    "lokasi": "Solo, Jakarta Selatan",
+    "jumlahInvestor": 2,
+    "hasilInvestasi": 9000000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Fashion",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "6"
+  },
+  {
+    "judul": "Toko Bunga Cyhthia",
+    "image": [
+        "https://images.unsplash.com/photo-1531058240690-006c446962d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://plus.unsplash.com/premium_photo-1661898753405-eeba8fda9ba9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1616614992443-72324b4f83c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+        "https://images.unsplash.com/photo-1558861122-40aa75d3a841?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "https://images.unsplash.com/photo-1619954428481-32c125ae19f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80"
+       ],
+    "valueProgressbar": 0.4,
+    "nilaiBisnis": 30,
+    "price": 30000000,
+    "perusahaan": "PT TBK jayaa",
+    "lokasi": "Mangkunegaran, Jakarta Timur",
+    "jumlahInvestor": 2,
+    "hasilInvestasi": 8000000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Plants",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 3",
+    "id": "7"
+  },
+  {
+    "judul": "Caffe Coffe No Kita",
+    "image": [
+        "https://www.nookmag.com/wp-content/uploads/2016/09/CVERGInterior3.jpg",
+        "https://qaafi.uq.edu.au/files/20987/Coffee-cafe-drink.jpg",
+        "https://media.blogto.com/articles/20180131-2048-TheDrakeHotel35.jpg?cmd=resize_then_crop&quality=70&w=2048&height=1365",
+        "https://www.imperialsugar.com/sites/default/files/recipe/Cuban-Coffee-Imperial.jpg" , 
+        "https://thecoffeeclub.co.th/wp-content/uploads/2018/08/4CFC_menu0292.jpg"
+    ],
+    "valueProgressbar": 0.7,
+    "nilaiBisnis": 60,
+    "price": 40000000,
+    "perusahaan": "PT Jaya Indo",
+    "lokasi": "Senayan, Jakarta Pusat",
+    "jumlahInvestor": 3,
+    "hasilInvestasi": 7500000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Food and Beverage",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "8"
+  },
+  {
+    "judul": "Resto Abc",
+    "image": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+         "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "https://images.unsplash.com/photo-1578474846511-04ba529f0b88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "https://images.unsplash.com/photo-1552566626-52f8b828add9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"],
+    "valueProgressbar": 0.6,
+    "nilaiBisnis": 40,
+    "price": 20000000,
+    "perusahaan": "PT Persero Merdeka",
+    "lokasi": "Tebet, Jakarta Selatan",
+    "jumlahInvestor": 3,
+    "hasilInvestasi": 7500000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Food and Beverage",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "9"
+  },
+  {
+    "judul": "Clothes Shop Ayu",
+    "image": [
+        "https://4.bp.blogspot.com/-bqq7INjup44/Wvd_44ZXslI/AAAAAAAADYE/cuUoqzKlHyEJqlchMwH-I-290o-fTCXVgCEwYBhgL/s1600/desain%2Btoko%2Bbaju%2Bminimalis%2B3.jpg",
+        "https://i.pinimg.com/originals/e1/1b/08/e11b08adfdb0f55a05553e82db44b0f1.jpg",
+        "https://referensience.com/wp-content/uploads/2020/10/baju.jpg",
+        "https://th.bing.com/th/id/R.810e545979ab7623db5c46b4179ff182?rik=EVbIgZMtkCy2Mw&riu=http%3a%2f%2fwongadoh.files.wordpress.com%2f2013%2f12%2fdsc_1134.jpg&ehk=9uLVFFT4UOpCM6ZWPqTJn4MPI7b%2bit%2b6mKrBj7wf%2bxg%3d&risl=&pid=ImgRaw&r=0",
+        "https://1.bp.blogspot.com/-lOX7lr9-DwE/UNA9bAUQ5FI/AAAAAAAAA5s/6Eqe6ISHXjU/s1600/DSC00092.JPG"
+        ],
+    "valueProgressbar": 0.5,
+    "nilaiBisnis": 50,
+    "price": 25000000,
+    "perusahaan": "PT Persero Jayww",
+    "lokasi": "Solo, Jakarta Selatan",
+    "jumlahInvestor": 2,
+    "hasilInvestasi": 9000000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Fashion",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "10"
+  },
+  {
+    "judul": "Toko Bunga Cyhthia",
+    "image": [
+        "https://images.unsplash.com/photo-1531058240690-006c446962d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://plus.unsplash.com/premium_photo-1661898753405-eeba8fda9ba9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1616614992443-72324b4f83c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+        "https://images.unsplash.com/photo-1558861122-40aa75d3a841?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "https://images.unsplash.com/photo-1619954428481-32c125ae19f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80"
+       ],
+    "valueProgressbar": 0.4,
+    "nilaiBisnis": 30,
+    "price": 30000000,
+    "perusahaan": "PT TBK jayaa",
+    "lokasi": "Mangkunegaran, Jakarta Timur",
+    "jumlahInvestor": 2,
+    "hasilInvestasi": 8000000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Plants",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 3",
+    "id": "11"
+  },
+  {
+    "judul": "Caffe Coffe No Kita",
+    "image": [
+        "https://www.nookmag.com/wp-content/uploads/2016/09/CVERGInterior3.jpg",
+        "https://qaafi.uq.edu.au/files/20987/Coffee-cafe-drink.jpg",
+        "https://media.blogto.com/articles/20180131-2048-TheDrakeHotel35.jpg?cmd=resize_then_crop&quality=70&w=2048&height=1365",
+        "https://www.imperialsugar.com/sites/default/files/recipe/Cuban-Coffee-Imperial.jpg" , 
+        "https://thecoffeeclub.co.th/wp-content/uploads/2018/08/4CFC_menu0292.jpg"
+    ],
+    "valueProgressbar": 0.7,
+    "nilaiBisnis": 60,
+    "price": 40000000,
+    "perusahaan": "PT Jaya Indo",
+    "lokasi": "Senayan, Jakarta Pusat",
+    "jumlahInvestor": 3,
+    "hasilInvestasi": 7500000,
+    "tentangBisnis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc. Urna cursus eget nunc scelerisque viverra. Arcu felis bibendum ut tristique et egestas quis ipsum. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Scelerisque felis imperdiet proin fermentum. Sagittis orci a scelerisque purus semper eget. Id donec ultrices tincidunt arcu non. Sit amet purus gravida quis blandit turpis. A condimentum vitae sapien pellentesque habitant. Cursus sit amet dictum sit amet justo. Sed risus ultricies tristique nulla aliquet enim tortor at. Mattis vulputate enim nulla aliquet. Vitae justo eget magna fermentum iaculis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id volutpat lacus laoreet non curabitur. Risus in hendrerit gravida rutrum quisque non tellus orci. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Nunc consequat interdum varius sit amet mattis vulputate enim. Consequat mauris nunc congue nisi vitae. Tortor aliquam nulla facilisi cras fermentum odio. Neque egestas congue quisque egestas diam in arcu. Faucibus et molestie ac feugiat sed lectus vestibulum." ,
+    "kategori": "Food and Beverage",
+    "kalkulatorInvestasi": "kalkulatorInvestasi 1",
+    "id": "12"
+  }
+]
+}
